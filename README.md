@@ -1,4 +1,4 @@
-Final Project Computer Vision
+Final Project Computer Vision (LC01/04)
 
 Team Members:
 1. Calista Friena Nurcahaya - 2702245305 
